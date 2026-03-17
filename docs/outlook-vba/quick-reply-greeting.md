@@ -10,7 +10,7 @@ Assign to a QAT button or ribbon shortcut for one-click use.
 
 ## The Code
 
-```vba title="QuickReplyWithGreeting"
+```vb.net title="QuickReplyWithGreeting"
 ' Quick Reply with First Name Greeting
 ' Assign to QAT button for one-click reply with personalised greeting
 ' Handles: LastName/FirstName format, honorific stripping, font styling
@@ -55,7 +55,7 @@ End Sub
 
 ## Helper: ExtractFirstName
 
-```vba title="ExtractFirstName"
+```vb.net title="ExtractFirstName"
 Function ExtractFirstName(fullName As String) As String
     Dim parts() As String
     Dim candidate As String
