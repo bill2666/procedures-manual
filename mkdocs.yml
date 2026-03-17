@@ -5,7 +5,7 @@ site_name: Procedures Manual
 site_description: >-
   Workflows, code patterns, and hard-won lessons for regulatory
   and financial analytics at the Law Society of NSW.
-site_url: https://YOURUSERNAME.github.io/procedures-manual/
+site_url: https://bill2666.github.io/procedures-manual/
 
 theme:
   name: material
@@ -43,7 +43,7 @@ theme:
     repo: fontawesome/brands/github
 
 # Repository link (top-right corner)
-repo_url: https://github.com/YOURUSERNAME/procedures-manual
+repo_url: https://github.com/bill2666/procedures-manual
 repo_name: procedures-manual
 
 # Extensions — these power the fancy features
